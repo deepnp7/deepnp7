@@ -20,13 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/deepnp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deepnp7" height="30" width="40" /></a>
 <a href="https://dev.to/deepnp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deepnp7" height="30" width="40" /></a>
 <a href="https://twitter.com/farsi_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farsi_engineer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepnarayan patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepnarayan patra" height="30" width="40" /></a>
-<a href="https://codesandbox.com/deepnp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="deepnp7" height="30" width="40" /></a>
 <a href="https://fb.com/deep patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deep patra" height="30" width="40" /></a>
-<a href="https://instagram.com/__zatch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__zatch_" height="30" width="40" /></a>
+<a href="[https://instagram.com/__zatch_](https://www.instagram.com/___zatch__/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__zatch_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepnarayanpatra395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepnarayanpatra395" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepnarayanpatra395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deepnarayanpatra395" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/RU3Q8st97Z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RU3Q8st97Z" height="30" width="40" /></a>
