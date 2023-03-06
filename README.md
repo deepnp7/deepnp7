@@ -23,7 +23,8 @@
 <p align="left">
 <a href="https://dev.to/deepnp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deepnp7" height="30" width="40" /></a>
 <a href="https://twitter.com/farsi_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farsi_engineer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepnarayan patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepnarayan patra" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepnarayan-patra-ba44a9225)
+
   <a href="https://instagram.com/___zatch__?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__zatch_" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Deep-Patra/pfbid02fVh9taLDivs9pgQfvCnNrEkVuRL3fxCGa4xpgrr4S8W5tDkEdRBTvAjbfpLeHQF9l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deep patra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepnarayanpatra395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepnarayanpatra395" height="30" width="40" /></a>
