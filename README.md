@@ -7,7 +7,8 @@
 
 <h2> 👨🏻‍💻 About Me :</h2>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Android Development** 
+- 🧑🏼‍💻 Pursuing my B.Tech. in CSE from JIS College of Engineering
 
 - 🌱 I’m currently learning **Flutter**
 
