@@ -23,7 +23,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepnp7" alt="deepnp7" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/deepnp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deepnp7" height="30" width="40" /></a>
+
 <a href="https://twitter.com/farsi_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farsi_engineer" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/deepnarayan-patra-ba44a9225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepnarayan patra" height="30" width="40" /></a>
   <a href="https://instagram.com/___zatch__?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__zatch_" height="30" width="40" /></a>
