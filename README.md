@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter,HTML,C++,C**
+- 💬 Ask me about **Flutter,Dart,HTML,C++,C**
 
 - 📫 How to reach me **deepnp7@gmail.com**
 
