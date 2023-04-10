@@ -50,5 +50,5 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepnp7&show_icons=true&locale=en" alt="deepnp7" /> </p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepnp7&" alt="deepnp7" /></p>
+<p><</p>
 
