@@ -38,7 +38,7 @@
 
 <h3 align="left">Support:</h3><br>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/deepnarayan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/deepnarayan" /></a></p><br><br>
-<br>
+<be>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepnp7&show_icons=true&locale=en&layout=compact" alt="deepnp7" /></p>
 <br>
 <br>
@@ -48,7 +48,7 @@
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepnp7&show_icons=true&locale=en" alt="deepnp7" /> </p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepnp7&show_icons=true&locale=en" alt="deepnp7" /> </p> -->
 <br>
 <p><</p>
 
