@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center"> <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi , I'm Deepnarayan Patra</h1>
+<h1 align="center"> <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="25px" height="25px"> Hi , I'm Deepnarayan Patra</h1>
 <h3 align="center"><i>A passionate developer from India</i></h3>
 <img align="right" alt="Coding" width="375" src="https://media.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif">
 
