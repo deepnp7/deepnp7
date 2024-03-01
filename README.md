@@ -8,8 +8,8 @@
 * 🌍  I'm based in India
 * ✉️  You can contact me at [deepnp7@gmail.com](mailto:deepnp7@gmail.com)
 * 🧠  I'm learning Flutter and Dart
-* 🤝  I'm open to collaborating on Interseting projects
-* ⚡  I am sarcastic and humorous
+* 🤝  I'm open to collaborating on Interesting projects
+* ⚡   Sarcastic and humorous
 
 <a href="https://www.twitter.com/__zatch___" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/__zatch___?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000"
