@@ -11,7 +11,7 @@
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡   Sarcastic and humorous
 
-<a href="https://www.twitter.com/__zatch___" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/deepnp7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/__zatch___?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000"
 /></a>
 
